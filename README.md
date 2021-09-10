@@ -1,2 +1,2 @@
 # netology-pagination
-Study task in Netology
+Study task for the Django project in Netology
